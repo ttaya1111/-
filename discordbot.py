@@ -175,5 +175,5 @@ async def on_message(message):
     f.close()
     print(ID, cmd)
 
-
-client.run("token")
+access_token = os.environ['BOT_TOKEN']
+client.run("access")
