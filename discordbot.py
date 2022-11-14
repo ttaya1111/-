@@ -176,4 +176,4 @@ async def on_message(message):
     print(ID, cmd)
 
 
-client.run("MTA0MTMwODgzNDY5NTc0OTY3Mw.GSSsr7.ocBD8Dsf_-bgFSJFhUjlFmV2b4J04dfBkqoK9k")
+client.run("token")
